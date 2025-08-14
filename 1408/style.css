@@ -38,9 +38,21 @@
   }
   
   .menu a {
-    color: white;
+    color: rgb(255, 251, 251);
     text-decoration: none;
     transition: color 0.3s;
   }
   
-  
+.menu a:hover{
+  color: blue
+
+}
+
+.main {
+  padding: 40px 0;
+   
+}
+.card-container{
+  flex-wrap: wrap;
+  display: flex;
+}
