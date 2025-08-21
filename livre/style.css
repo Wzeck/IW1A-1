@@ -23,7 +23,8 @@
     background-color: #333;
     color: white;
     padding: 20px 0;
-    background-image: 
+    background-image: url(magem/p1.png);
+    background-size: contain;
   }
   
   header .container {
